@@ -17,7 +17,6 @@ Output stage:
 A summary in plain English
 """
 
-from distutils import text_file
 from sp_recog import record_audio
 from better_profanity import profanity
 
